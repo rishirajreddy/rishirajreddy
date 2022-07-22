@@ -1,7 +1,12 @@
 <h1 align="center">Hey there 👋, This is Rishi Raj Reddy </h1>
 <h3 align="center">A Self-taught Developer</h3>
+<img src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=790b761178ce38b0fccabce96c0a592df954ebfb9e3ad893&rid=giphy.gif&ct=g" align="right" width="400" alt="coding">
+
+- 🔭 I’m currently working on **Blog MEAN WebApp**
 
 - 🌱 I’m currently learning **MEAN Stack**
+
+- 💬 Ask me about **Angular, Flutter**
 
 - 📫 Reach me at **rishirajreddy.07@gmail.com**
 
