@@ -6,10 +6,6 @@ This is the place where I can express my ❤ towards 💻development✨
 
 - 🔭 I’m currently working on something cool 😉
 
-- 🌱 I’m currently learning **MEAN Stack**⚡ 
-
-- 💬 Ask me about anything on **Angular, Flutter & JavaScript**
-
 - 📫 Reach me at **rishirajreddy.07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
